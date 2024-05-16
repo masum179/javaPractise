@@ -1,4 +1,4 @@
 # javaPractise
 All java code. 
 <br>
-Author - Mozammal Hossain Masum
+Author - Mozammal Hossain (Masum)
